@@ -1,0 +1,29 @@
+header {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  background: blue;
+}
+header button {
+  border: none;
+  border-radius: 3%;
+  background: rgb(47, 183, 229);
+}
+header button:hover {
+  background: lightblue;
+}
+header h1 {
+  color: rgb(185, 86, 86);
+}
+
+.contact {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: row;
+  background: red;
+  width: 80%;
+}/*# sourceMappingURL=style.css.map */
