@@ -17,4 +17,4 @@ Sass has a numerous amount of benefits over plain css.
 - '#extend'
     - this allows for a css component to inherit the original css code
 - calculations
-    -ex: width: 100% - 20%;
+    - ex: width: 100% - 20%;
